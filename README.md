@@ -3,11 +3,11 @@ In this smart home setup, lighting is managed via a user-friendly Streamlit dash
 
 
 ## **Hardware Components:**
--ESP32 board; 
--DHT11 sensor; 
--2 LEDs; 
--Resistors (appropriate values for LEDs, typically 220Ω) (optinal); 
--Breadboard and jumper wires;
+*ESP32 board; 
+*DHT11 sensor; 
+*2 LEDs; 
+*Resistors (appropriate values for LEDs, typically 220Ω) (optinal); 
+*Breadboard and jumper wires;
 
 ## **Connection Details:**
 -DHT11 Sensor: Data to D5, VCC to 3.3V, GND to GND.; 
