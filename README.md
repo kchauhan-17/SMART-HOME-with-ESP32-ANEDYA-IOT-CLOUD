@@ -14,7 +14,7 @@ In this smart home setup, lighting is managed via a user-friendly Streamlit dash
 -LED1: Anode to D4 through a resistor, Cathode to GND.; 
 -LED2: Anode to D18 through a resistor, Cathode to GND.
 
-**📊 Data evaluation template**
+##**📊 Data evaluation template**
 A simple Streamlit app showing how to evaluate and annotate data, using dataframes and charts.
 
 Open in Streamlit
