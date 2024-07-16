@@ -5,8 +5,8 @@ import streamlit as st
 import pandas as pd
 import pytz
 
-nodeId = "4229885e-3456-11ef-9ecc-a1461caa74a3"
-apiKey = "829d921000ee5204aa1cdb4fe4d2002fe7bbbe2c157983dad9bd7658f40d7229"
+nodeId = "***" #node id
+apiKey = "***" #api key
 
 
 def anedya_config(NODE_ID, API_KEY):
