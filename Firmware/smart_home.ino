@@ -13,10 +13,10 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 String regionCode = "ap-in-1";                   
-const char *deviceID = "dc064093-33b6-4888-a485-00b6ec1b0427"; 
-const char *connectionkey = "0c413337dbd57c211eed883899ef196c";  
-const char *ssid = "Khushi";     
-const char *pass = "khushi1702"; 
+const char *deviceID = "***"; // add your device UUID
+const char *connectionkey = "***";  // add your connection key
+const char *ssid = "***";    // your ssid 
+const char *pass = "**"; //your password 
 
 const char *mqtt_broker = "mqtt.ap-in-1.anedya.io";                      
 const char *mqtt_username = deviceID;                                      
