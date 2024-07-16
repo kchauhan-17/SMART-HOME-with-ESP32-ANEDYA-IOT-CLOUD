@@ -11,8 +11,8 @@ from function.anedya import anedya_setValue
 from function.anedya import fetchHumidityData
 from function.anedya import fetchTemperatureData
 
-nodeId = "4229885e-3456-11ef-9ecc-a1461caa74a3"  # get it from anedya dashboard -> project -> node 
-apiKey = "829d921000ee5204aa1cdb4fe4d2002fe7bbbe2c157983dad9bd7658f40d7229"  # anedya project apikey
+nodeId = "*************"  # get it from anedya dashboard -> project -> node 
+apiKey = "****************"  # anedya project apikey
 
 st.set_page_config(page_title="SMART HOME", layout="wide")
 
